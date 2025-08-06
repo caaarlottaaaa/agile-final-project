@@ -1,24 +1,22 @@
-# Agile Final Project
+# Agile Final Project – Product Catalog Back-End
 
-This repository was created as part of the Coursera Product Management Agile Development course final project.
+This repository contains the final project for the Coursera Agile course.
 
 ## Project Overview
+The goal is to simulate the development of a back-end product catalog using Agile practices. The project includes 10 user stories covering core functionality such as:
 
-The project simulates the development of a back-end product catalog for an e-commerce platform. It involves creating, managing, and deploying stories that satisfy stakeholder requirements.
+- Product creation, listing, and filtering  
+- Product interaction (like/dislike)  
+- Deployment and cloud hosting automation  
 
-## Features
+## Issue Tracking
+All user stories have been created using a custom issue template and labeled as enhancements. They are assigned to the “Final Project” board and organized in the Product Backlog.
 
-- Create, retrieve, update, and delete products
-- Like and dislike functionality
-- Query and list products
-- Cloud hosting and automated deployment
+## Agile Artifacts
+- ✅ User Stories with Gherkin-formatted Acceptance Criteria  
+- ✅ GitHub Project board with To Do, In Progress, and Done columns  
+- ✅ Labels applied for issue categorization  
+- ✅ Project assigned to each issue
 
-## How to Navigate
-
-- Issues tab: Contains user stories in standard format
-- Projects tab: Kanban board for sprint planning and progress
-- Milestones: Sprint duration tracking
-
-## License
-
-This project is part of a course submission and does not use a production license.
+## Author
+Carlotta Radaelli
